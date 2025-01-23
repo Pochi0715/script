@@ -1,1 +1,2 @@
 gg.alert("hello world")
+print("scriptを終了しました。")
